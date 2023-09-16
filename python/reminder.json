@@ -1,0 +1,5 @@
+{
+    "workTimeMin": 0.1,
+    "pauseTimeSec": 3,
+    "pathToReminder": "audio/reminder.mp3"
+}
